@@ -4,4 +4,4 @@ This Python module is all a joke, but feel free to use it in anyway. It was only
 ```py
 @life.point()
 ```
-It will give you a response related, but not at all helpful.
+It will give you a response related, but not at all helpful. I do in fact deleting this module and making something more useful in the future.
